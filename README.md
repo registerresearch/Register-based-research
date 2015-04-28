@@ -3,7 +3,7 @@ RegisterResearch - General discussion and code sharing on register based researc
 
 The organization "registerresearch" is intended for code sharing and sharing of general experience and knowledge pertaining to 
 register based research. The information here is open to everyone who signs up as a member. We encourage all researchers
-to controbute with program code and experiences.
+to contribute and participate in this community.
 
 Under the current repository it is expected that people contribute with general information and program code that is of
 egnerla interest or otherwise does not fit into any of the other repositories, i.e. under a specific programming language,
