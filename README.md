@@ -1,18 +1,14 @@
 # Register-based-research
 RegisterResearch - General discussion and code sharing on register based research 
 
-The organization "registerresearch" is intended for code sharing and sharing of general experience and knowledge pertaining to 
-register based research. The information here is open to everyone who signs up as a member. We encourage all researchers
-to contribute and participate in this community. We hope that you are willing to share with other researchers and that you will benefit fron finding solutions and
-examples you can use within the framwork of REGISTERRESEARCH.
+The organization "registerresearch" is intended for code sharing and sharing of general experience and knowledge pertaining to register based research. The information here is open to everyone who signs up as a member. We encourage all researchers to contribute and participate in this community. We hope that you are willing to share with others and that you will benefit from finding uesful program code, solutions and examples.
 
 REGISTERRESEARCH is organized into teams:
 1. Software (i.e. SAS, SPSS, etc)
 2. Register (i.e. LISA, Cause Of Death register, etc.)
 3. Research topic (demograhy, survival analysis, ect.)
 
-Under this repository it is expected that people contribute with general information and program code that is of
-general interest or otherwise does not fit into any of the other repositories, i.e. under a specific programming language,a specifc register, or a specific research topic.
+Under the current repository (register-based-research) it is expected that people contribute with general information and program code that is of general interest or otherwise does not fit into any of the other repositories, i.e. under a specific programming language,a specific register, or a specific research topic.
 
 If you are looking for targeted information belonging to one of the teams,please look for or put your code into a repository under one of these teams. 
 
