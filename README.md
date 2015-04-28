@@ -6,7 +6,7 @@ The organization "registerresearch" is intended for code sharing and sharing of 
 REGISTERRESEARCH is organized into teams:
 1. Software (i.e. SAS, SPSS, etc)
 2. Register (i.e. LISA, Cause Of Death register, etc.)
-3. Research topic (demograhy, survival analysis, ect.)
+3. Research topic (demography, survival analysis, ect.)
 
 Under the current repository (register-based-research) it is expected that people contribute with general information and program code that is of general interest or otherwise does not fit into any of the other repositories, i.e. under a specific programming language,a specific register, or a specific research topic.
 
