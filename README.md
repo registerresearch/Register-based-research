@@ -1,7 +1,7 @@
 # Register-based-research
 RegisterResearch - General discussion and code sharing on register based research 
 
-The organization "registerresearch" is intended for code sharing and sharing of general experince and knowledge pertaining to 
+The organization "registerresearch" is intended for code sharing and sharing of general experience and knowledge pertaining to 
 register based research. The information here is open to everyone who signs up as a member. We encourage all researchers
 to controbute with program code and experiences.
 
