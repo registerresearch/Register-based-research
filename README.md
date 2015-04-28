@@ -1,7 +1,7 @@
 # Register-based-research
 RegisterResearch - General discussion and code sharing on register based research 
 
-The organization "registerresearch" is intended for code sharing and sharing of general experience and knowledge pertaining to register based research. The information here is open to everyone who signs up as a member. We encourage all researchers to contribute and participate in this community. We hope that you are willing to share with others and that you will benefit from finding uesful program code, solutions and examples.
+The organization "registerresearch" is intended for code sharing and sharing of general experience and knowledge pertaining to register based research. The information here is open to everyone who signs up as a member. We encourage all researchers to contribute and participate in this community. We hope that you are willing to share with others and that you will benefit from finding useful program code, solutions and examples.
 
 REGISTERRESEARCH is organized into teams:
 1. Software (i.e. SAS, SPSS, etc)
