@@ -14,7 +14,7 @@ If you are looking for targeted information belonging to one of the teams,please
 
 If you would like to belong to a team, please mail
 
-Johan Fihn at johan.fihn@snd.gu.se or
+Johan Fihn at johan.fihn@snd.gu.se or Olof Olsson olof.olsson@snd.gu.se
 Elisabeth Strandhagen at elisabeth.strandhagen@snd.gu.se or
 Magnus Stenbeck at magnus.stenbeck@ki.se
 
