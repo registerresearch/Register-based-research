@@ -12,9 +12,8 @@ Under the current repository (register-based-research) it is expected that peopl
 
 If you are looking for targeted information belonging to one of the teams,please look for or put your code into a repository under one of these teams. 
 
-If you would like to belong to a team, please mail
-
-Johan Fihn at johan.fihn@snd.gu.se or Olof Olsson olof.olsson@snd.gu.se
+###If you would like to belong to a team
+Please mail your GitHub username (if you are not registered go to http://github.com) to Johan Fihn at johan.fihn@snd.gu.se or Olof Olsson olof.olsson@snd.gu.se or
 Elisabeth Strandhagen at elisabeth.strandhagen@snd.gu.se or
 Magnus Stenbeck at magnus.stenbeck@ki.se
 
