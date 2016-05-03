@@ -26,3 +26,8 @@ and we will create the repository for you.
 Johan, Elisabeth and Magnus
 
 This service is provided by the Swedish National Dataservice (SND) at Gothenburg university as part of the SIMSAM INFRA project aiming att building infrastructure for register based research. 
+
+#About Github
+Introduction to Github https://www.youtube.com/watch?v=FyfwLX4HAxM
+
+Learn how to use Github https://guides.github.com/activities/hello-world/
